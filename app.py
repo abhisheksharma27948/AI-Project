@@ -1,9 +1,9 @@
 # Import necessary libraries
-import streamlit as st
-import preprocessor, helper
 import matplotlib.pyplot as plt
 import seaborn as sns
-from textblob import TextBlob
+import streamlit as st
+import helper
+import preprocessor
 
 # Set title for the sidebar
 st.sidebar.title("Whatsapp Analyzer")
