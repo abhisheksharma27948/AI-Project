@@ -1,4 +1,4 @@
-# from urlextract import URLExtract  # Importing URLExtract module to extract URLs from text
+from urlextract import URLExtract  # Importing URLExtract module to extract URLs from text
 from wordcloud import WordCloud  # Importing WordCloud module to create word clouds
 import pandas as pd  # Importing pandas for data manipulation
 from collections import Counter  # Importing Counter from collections to count occurrences of elements in a list
